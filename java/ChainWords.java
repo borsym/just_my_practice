@@ -1,6 +1,6 @@
 import java.util.*;
 
-/*TODO hibakezelés */
+
 public class ChainWords {
     private int playerNumber;
     private String startWords[] = {"doctor", "paralyzed", "proclaim", "waste", "oak", "fragrant", "offense", "deficiency", "elaborate", "bread"};
