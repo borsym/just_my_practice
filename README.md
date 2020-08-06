@@ -3,7 +3,8 @@ My works
 
 The thinking behind the projects:
 
-  HANGMAN
+  HANGMAN:
+  
     - The user has 6 mistake chance
     - I need one random word from an array
     - If the user guessed a word, I need to change every occurrence: _ -> character 
