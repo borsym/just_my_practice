@@ -2,7 +2,15 @@
 My works
 
 The thinking behind the projects:
-
+   WORD_CHAIN:
+    - We need at least two player
+    - Hold gamers in a list
+    - We will need a random first word
+    - If the last letter of the previous word doesn't match to the first letter of the current word, ask again the player (3 heart)
+    - Hold the said letters, don't hold it, If the user says again a letter
+    - If every condition is correct, append to the list the current letter
+    - Handle exceptions
+    - Handle if the user give us word like this "eXiT" make it to Upper or Lower case
   HANGMAN:
   
     - The user has 6 mistake chance
