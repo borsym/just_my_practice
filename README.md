@@ -4,7 +4,7 @@ My works
 The thinking behind the projects:
    
    
-   WORD_CHAIN:
+   WORD_CHAIN: (py,cpp,java)
 	 
     - We need at least two player
     - Hold gamers in a list
@@ -16,7 +16,7 @@ The thinking behind the projects:
     - Handle if the user give us word like this "eXiT" make it to Upper or Lower case.
     
     
-  HANGMAN:
+  HANGMAN: (py)
   
     - The user has 6 mistake chance
     - I need one random word from an array
