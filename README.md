@@ -12,7 +12,7 @@ The thinking behind the projects:
     - Hold the said letters, don't hold it, If the user says again a letter
     - If every condition is correct, append to the list the current letter
     - Handle exceptions
-    - Handle if the user give us word like this "eXiT" make it to Upper or Lower case
+    - Handle if the user give us word like this "eXiT" make it to Upper or Lower case.
     
     
   HANGMAN:
